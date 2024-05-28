@@ -1,0 +1,7 @@
+Name	Birthday	SSN	TreatmentNotes	Prescription	DoctorName	BillAmount	PrescriptionInfo	CopayAmount
+John Doe	19900101	123-45-6789	Fever and headache	Paracetamol	DrSmith	100	1/1/2023 10:00	20
+Jane Smith	19851205	987-65-4321	Back pain	Ibuprofen	DrJohnson	75	1/2/2023 14:30	15
+Alice Johnson	19951015	234-56-7890	Cough and cold	Aspirin	DrSmith	120	1/3/2023 11:45	25
+Bob Anderson	19800820	345-67-8901	Sprained ankle	Painkillers	DrBrown	90	1/4/2023 15:15	18
+Eva Williams	19930525	456-78-9012	Allergies	Antihistamines	DrJohnson	80	1/5/2023 9:30	16
+Charlie Davis	19870412	567-89-0123	Stomachache	Pepto-Bismol	DrBrown	110	1/6/2023 13:00	22
